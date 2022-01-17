@@ -30,6 +30,7 @@ name = "maze-generator"
 version = "0.1.0"
 dependencies = [
  "rand",
+ "svg",
 ]
 
 [[package]]
@@ -77,6 +78,12 @@ checksum = "d51e9f596de227fda2ea6c84607f5558e196eeaf43c986b724ba4fb8fdf497e7"
 dependencies = [
  "rand_core",
 ]
+
+[[package]]
+name = "svg"
+version = "0.8.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "3bdb25a4593d6656239319426f4025f7a658157e25e89f0e0319d7516d46042d"
 
 [[package]]
 name = "wasi"

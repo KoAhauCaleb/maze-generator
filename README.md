@@ -5,7 +5,8 @@ CLI application written in rust to create printable mazes and their solutions.
 # Useful Websites
 
 * [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
-* [Drawing SVG Graphs with Rust](https://cetra3.github.io/blog/drawing-svg-graphs-rust/)
+* [Maze Generation Algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
+* [SVG Crate Docs](https://crates.io/crates/svg)
 
 # Future Work
 
